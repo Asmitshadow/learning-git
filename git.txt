@@ -20,3 +20,16 @@ git add project / git add .
 git status 
 git commit -m "commit massage"
 git push
+
+
+
+to create a new branch 
+git checkout -b "branch name"
+
+
+to switich between two branche 
+git checkout "branchname"
+
+
+to clone or copy
+git clone https//
