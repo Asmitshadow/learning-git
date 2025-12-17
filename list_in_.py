@@ -16,3 +16,14 @@ print(days_of_week[-1])
 # let's use f
 
 print(f"this the {days_of_week[2]} third day of week")
+
+
+# slicing in list
+
+s1 = ["1","2","3","4","5","6","7","8","9"]
+print(s1)
+print(s1[1:4:1])
+print(s1[2:9:2])
+
+s2 = "qwerty"
+print(s2[1:5:2])
